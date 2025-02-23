@@ -57,7 +57,7 @@ This is an internal process where organizers collect and manage event informatio
 ## Video Demonstrations
 
 ### Model User Experience
-[[CLICK HERE](https://youtu.be/2x7k8v0T0q4)]https://youtube.com/shorts/O7BR6rf0180?feature=share
+[[CLICK HERE](https://youtu.be/2x7k8v0T0q4)]
 
 ### Designer User Experience
 [[CLICK HERE]([https://youtu.be/2x7k8v0T0q4](https://www.youtube.com/shorts/O7BR6rf0180))]
