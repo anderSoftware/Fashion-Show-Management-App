@@ -54,3 +54,11 @@ This is an internal process where organizers collect and manage event informatio
 - Management of models during the event.
 - Post-event data administration and analysis.
 
+## Video Demonstrations
+
+### Model User Experience
+[Insert video link or embed here]
+
+### Designer User Experience
+[Insert video link or embed here]
+
